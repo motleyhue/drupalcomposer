@@ -1,0 +1,12 @@
+uuid: 42eaff3a-fbc6-4a74-a48a-c0d42955a4db
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - ndolley@inviqa.com
+reply: ''
+weight: 0

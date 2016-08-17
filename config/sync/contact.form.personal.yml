@@ -1,0 +1,11 @@
+uuid: 7e8545bf-44d4-466d-9a01-8de1d12ce3cf
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 4w1vDIuPlVqNIiynysHZHU-9sBCpx5uiEIPlo4SW1tw
+id: personal
+label: 'Personal contact form'
+recipients: {  }
+reply: ''
+weight: 0

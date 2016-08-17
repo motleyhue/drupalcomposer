@@ -1,0 +1,14 @@
+uuid: 61e9ed7d-b44d-4f21-8cc0-2c5752b7ac0d
+name: 'Drupal Composer'
+mail: ndolley@inviqa.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
