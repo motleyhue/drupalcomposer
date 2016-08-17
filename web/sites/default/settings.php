@@ -21,7 +21,11 @@ $settings['update_free_access'] = FALSE;
 $settings['container_yamls'][] = __DIR__ . '/services.yml';
 
 $settings['install_profile'] = 'standard';
-$config_directories['sync'] = 'sites/default/files/config_X69137mLRxy_7czl0DQFBvmh3Exs1wb5zmexw_l0tkJU5VCDU_u3cHEDtT3a8J-u2b_x4-Pc2Q/sync';
+
+/**
+ * Configuration sync directory.
+ */
+$config_directories['sync'] = '../config/sync';
 
 /**
  * Load local development override configuration, if available.
